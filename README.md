@@ -7,4 +7,6 @@ A Markov Random Field is used to represent the problem, where each node correspo
 
 ![Screenshot from 2023-06-14 11-50-01](https://github.com/pettepiero/Ising-image-denoising/assets/81314827/fcfd26d4-fea8-4625-8c8a-133232f33cd3)
 
-At the moment of creation of this project, the goal is to use ICM and different sampling techniques, but updates will follow. 
+The goal is to use ICM and Metropolis-Hastings and Gibbs sampling techniques comparing the results.
+
+![denoising](https://github.com/pettepiero/Ising-image-denoising/assets/81314827/0bda2712-d597-4318-85bd-cc666599fd0b)
